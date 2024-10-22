@@ -2,7 +2,7 @@
 - 👀 I’m interested in maths
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on minor projects
-- 📫 How to reach me email
+- 📫 How to reach me: email
 
 
 <!---
