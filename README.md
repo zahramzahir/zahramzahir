@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @zahramzahir
-- 👀 I’m interested in maths
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on minor projects
-- 📫 How to reach me: email
+- 👀 I’m interested in maths and statistics
+- 🌱 I’m currently learning intermediate python 
+- 💞️ I’m looking to create and collaborate on minor projects
+- 📫 How to reach me: email zahramzahir@gmail.com
 
 
 <!---
