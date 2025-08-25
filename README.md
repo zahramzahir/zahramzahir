@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zahramzahir
+- 👋 Hi, I’m Zahra
 - 👀 I’m interested in maths and statistics
 - 🌱 I’m currently learning intermediate python 
 - 💞️ I’m looking to create and collaborate on minor projects
